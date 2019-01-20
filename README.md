@@ -14,12 +14,6 @@ to how to make layout of each and every page including paragraph images Audio an
 help the layout of project is relability and professionaly help to get the basic idea of my projects 
 to acheive my goals</p>
 
-![image](https://user-images.githubusercontent.com/38302279/50461369-eb004d80-0975-11e9-92d1-a5cebd8748b7.png)
-![w1](https://user-images.githubusercontent.com/38302279/50461826-26e8e200-0979-11e9-9170-279cc145d55e.png)
-![w2](https://user-images.githubusercontent.com/38302279/50461900-a5de1a80-0979-11e9-8783-4e0a54b8d659.png)
-[w3](https://user-images.githubusercontent.com/38302279/50462083-ce1a4900-097a-11e9-8b8c-ce97910fd206.png)
-![w4](https://user-images.githubusercontent.com/38302279/50462431-323e0c80-097d-11e9-8874-1af2c5038a41.png)
-![w5](https://user-images.githubusercontent.com/38302279/50462541-dd4ec600-097d-11e9-9367-fac6668f0793.png)
 
 
 
