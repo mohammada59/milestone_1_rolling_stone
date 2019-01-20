@@ -27,7 +27,9 @@ to acheive my goals</p>
 ![p11](https://user-images.githubusercontent.com/38302279/51434175-8f627080-1c52-11e9-8bd0-861c5e929eb1.png)
 ![p12](https://user-images.githubusercontent.com/38302279/51434176-8f627080-1c52-11e9-920d-55bb5c2f21b4.png)
 ![p13](https://user-images.githubusercontent.com/38302279/51434177-8f627080-1c52-11e9-87a5-0fa5448a0027.png)
-![p14](https://user-images.githubusercontent.com/38302279/51434178-8f627080-1c52-11e9-9eee-cbf5da801fc2.png)
+![p14](https://user-images.githubusercontent.com/38302279/51434237-05b3a280-1c54-11e9-8de6-b9958d2ce0e1.png)
+
+
 
 
 
