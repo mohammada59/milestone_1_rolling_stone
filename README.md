@@ -14,6 +14,20 @@ to how to make layout of each and every page including paragraph images Audio an
 help the layout of project is relability and professionaly help to get the basic idea of my projects 
 to acheive my goals</p>
 
+![p1](https://user-images.githubusercontent.com/38302279/51434163-7fe32780-1c52-11e9-9888-141993f1b7f0.png)
+![p2](https://user-images.githubusercontent.com/38302279/51434164-7fe32780-1c52-11e9-9133-55126c541d9d.png)
+![p3](https://user-images.githubusercontent.com/38302279/51434165-807bbe00-1c52-11e9-9df5-aeed2152a257.png)
+![p4](https://user-images.githubusercontent.com/38302279/51434166-807bbe00-1c52-11e9-9514-1eba8b2fe321.png)
+![p5](https://user-images.githubusercontent.com/38302279/51434167-81145480-1c52-11e9-956c-f934e5c7969a.png)
+![p6](https://user-images.githubusercontent.com/38302279/51434168-81145480-1c52-11e9-8ba8-c5d359c9cdd8.png)
+![p7](https://user-images.githubusercontent.com/38302279/51434169-81aceb00-1c52-11e9-9dfb-fadd8a3f3856.png)
+![p8](https://user-images.githubusercontent.com/38302279/51434170-81aceb00-1c52-11e9-940c-e4f596b031d0.png)
+![p9](https://user-images.githubusercontent.com/38302279/51434171-81aceb00-1c52-11e9-8ca3-4ac6f9d12aa4.png)
+![p10](https://user-images.githubusercontent.com/38302279/51434172-82458180-1c52-11e9-897c-e2d23b3819ab.png)
+![p11](https://user-images.githubusercontent.com/38302279/51434175-8f627080-1c52-11e9-8bd0-861c5e929eb1.png)
+![p12](https://user-images.githubusercontent.com/38302279/51434176-8f627080-1c52-11e9-920d-55bb5c2f21b4.png)
+![p13](https://user-images.githubusercontent.com/38302279/51434177-8f627080-1c52-11e9-87a5-0fa5448a0027.png)
+![p14](https://user-images.githubusercontent.com/38302279/51434178-8f627080-1c52-11e9-9eee-cbf5da801fc2.png)
 
 
 
