@@ -72,23 +72,36 @@ and details links i use for my study purpose to complete my task</p>
 links as fellows as per describe page wise</p>
 <h3>Links<h3>
 <p>All links as frllows</p>
-*https://en.wikipedia.org/wiki/The_Rolling_Stones.
-*https://www.imdb.com/name/nm0001396/
-*https://www.cbsnews.com/news/the-rolling-stones-still-rockin-50-years-after-debut/
-*https://www.shanethegamer.com/the-rolling-stones-beggars-banquet-50th-anniversary-edition/
-*https://www.sundaypost.com/fp/the-rolling-stones-guitarist-keith-richards-says-band-are-at-their-happiest-playing-live/
-*http://periodicodivergente.com/lo-que-los-empresarios-deben-aprender-de-the-rolling-stones/
-*https://www.musikexpress.de/the-rolling-stones-me-helden-1090957/
-*https://www.rollingstone.com/music/music-features/keith-richards-rolling-stones-no-filter-tour-760658/
-*https://www.scoopnest.com/user/RollingStone/979025862094925824-rolling-stones-guitarist-ronnie-wood-says-he-s-all-clear-after-lung-cancer-scare
-*https://wwwppcorn.com/us/the-rolling-stones-top-10-albums-of-all-time/<p>
+* https://en.wikipedia.org/wiki/The_Rolling_Stones.
+
+* https://www.imdb.com/name/nm0001396/
+
+* https://www.cbsnews.com/news/the-rolling-stones-still-rockin-50-years-after-debut/
+
+* https://www.shanethegamer.com/the-rolling-stones-beggars-banquet-50th-anniversary-edition/
+
+* https://www.sundaypost.com/fp/the-rolling-stones-guitarist-keith-richards-says-band-are-at-their-happiest-playing-live/
+
+* http://periodicodivergente.com/lo-que-los-empresarios-deben-aprender-de-the-rolling-stones/
+
+* https://www.musikexpress.de/the-rolling-stones-me-helden-1090957/
+
+* https://www.rollingstone.com/music/music-features/keith-richards-rolling-stones-no-filter-tour-760658/
+
+* https://www.scoopnest.com/user/RollingStone/979025862094925824-rolling-stones-guitarist-ronnie-wood-says-he-s-all-clear-after-lung-cancer-scare
+
+* https://wwwppcorn.com/us/the-rolling-stones-top-10-albums-of-all-time/<p>
 <h4>Media</h4>
 <p>All media file i responsive embeded on you tube as follows</p>
-*https://www.youtube.com/embed/xcyv7vDHbTs
-*https://www.youtube.com/embed/6RLiBo_h3Uk
-*https://www.youtube.com/embed/VyK1bZZ7E-s
-*https://www.youtube.com/embed/OZ8GZ3PFVGM
-*https://www.youtube.com/embed/hic-dnps6MU</p>
+* https://www.youtube.com/embed/xcyv7vDHbTs
+
+* https://www.youtube.com/embed/6RLiBo_h3Uk
+
+* https://www.youtube.com/embed/VyK1bZZ7E-s
+
+* https://www.youtube.com/embed/OZ8GZ3PFVGM
+
+* https://www.youtube.com/embed/hic-dnps6MU</p>
 <h5>Acknowledgement</h5>
 <p>the inspiration of my project is rollingstone worldwide most famous rock band
 with over 50 yeras experince of music lover thats why i choose RollingStone</p>
