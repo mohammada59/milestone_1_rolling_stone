@@ -3,7 +3,19 @@
 <h2>This is sample of Readme.md file in my project name is milestone_1_rolling_stone</h2>
 
 <h4>My project name is based on Rockband name Rolling stone band and the band has over 50 years experince to live
-conserts experince also popular and famous rock band allover the England and worldwide 
+conserts experince also popular and famous rock band allover the England and worldwide and also Rolling stone
+band had 50 years experince to conserts all over the worlds.
+
+The band is a 1960’s rock band and have around 50 years experience of performing live at numerous events 
+around the world. You have been given the following requirements after interviews with the client’s 
+representatives: Their primary target audiences are their fans and potential fans who wish to use the 
+site to see and hear clips from their back catalog, and any new material as it becomes available.
+Also, the band would like to use the site to showcase their music and publicise their availability to
+perform at events such as weddings and Christmas parties.
+
+The band has provided you, the developer, with the following assets that they would like to showcase on 
+their website:
+
 The breifing of my project is as you know my project based on music lover specially rock music lover my project 
 includeed 6 web pages inside paragrphs,images videos info and Newsletter and contacts and all necessery
 information need to complete and complile the project</h4>
@@ -45,8 +57,15 @@ to acheive my goals</p>
 and if need to change or amendment i can do to git add,git commitand git push
 i use also bootstrap to add font awsom hover and make my site responsive to surfing all kind of device
 Mobiles,tablets/ipad and Desktop
-<h4>Third using jquary to create bootstrap navigation bar and also using jquary to creat lightbox gallery of RollingStone</h4>
-
+<h4>Third using jquary to create bootstrap navigation bar and also using jquary to creat lightbox gallery of RollingStone
+the idea of creat lightbox bootstrap gallery i got link below</h4>
+*_http://webseotips.com/responsive-image-gallery-bootstrap-4/
+<h3>using java quary to creat lightbox gallery</h3>
+<p> <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+ </p>   
 <h2>Deployment</h2>
 <p>i described the  process of my project to use deploy my project i use git and git hub to deploy 
 my project as fdellows comand lines</p>
@@ -71,40 +90,39 @@ and details links i use for my study purpose to complete my task</p>
 <p>All contents i get from wikipedia all information images links get form wikipedia my all 
 links as fellows as per describe page wise</p>
 <h3>Links<h3>
-<p>All links as frllows</p>
-* https://en.wikipedia.org/wiki/The_Rolling_Stones.
+<p>All links as fellows</p>
+*_https://en.wikipedia.org/wiki/The_Rolling_Stones.
 
-* https://www.imdb.com/name/nm0001396/
+*_https://www.imdb.com/name/nm0001396/
 
-* https://www.cbsnews.com/news/the-rolling-stones-still-rockin-50-years-after-debut/
+*_https://www.cbsnews.com/news/the-rolling-stones-still-rockin-50-years-after-debut/
 
-* https://www.shanethegamer.com/the-rolling-stones-beggars-banquet-50th-anniversary-edition/
+*_https://www.shanethegamer.com/the-rolling-stones-beggars-banquet-50th-anniversary-edition/
 
-* https://www.sundaypost.com/fp/the-rolling-stones-guitarist-keith-richards-says-band-are-at-their-happiest-playing-live/
+*_https://www.sundaypost.com/fp/the-rolling-stones-guitarist-keith-richards-says-band-are-at-their-happiest-playing-live/
 
-* http://periodicodivergente.com/lo-que-los-empresarios-deben-aprender-de-the-rolling-stones/
+*_http://periodicodivergente.com/lo-que-los-empresarios-deben-aprender-de-the-rolling-stones/
 
-* https://www.musikexpress.de/the-rolling-stones-me-helden-1090957/
+*_https://www.musikexpress.de/the-rolling-stones-me-helden-1090957/
 
-* https://www.rollingstone.com/music/music-features/keith-richards-rolling-stones-no-filter-tour-760658/
+*_https://www.rollingstone.com/music/music-features/keith-richards-rolling-stones-no-filter-tour-760658/
 
-* https://www.scoopnest.com/user/RollingStone/979025862094925824-rolling-stones-guitarist-ronnie-wood-says-he-s-all-clear-after-lung-cancer-scare
+*_https://www.scoopnest.com/user/RollingStone/979025862094925824-rolling-stones-guitarist-ronnie-wood-says-he-s-all-clear-after-lung-cancer-scare
 
-* https://wwwppcorn.com/us/the-rolling-stones-top-10-albums-of-all-time/<p>
+*_https://wwwppcorn.com/us/the-rolling-stones-top-10-albums-of-all-time/<p>
 <h4>Media</h4>
 <p>All media file i responsive embeded on you tube as follows</p>
-* https://www.youtube.com/embed/xcyv7vDHbTs
+*_https://www.youtube.com/embed/xcyv7vDHbTs
 
-* https://www.youtube.com/embed/6RLiBo_h3Uk
+*_https://www.youtube.com/embed/6RLiBo_h3Uk
 
-* https://www.youtube.com/embed/VyK1bZZ7E-s
+*_https://www.youtube.com/embed/VyK1bZZ7E-s
 
-* https://www.youtube.com/embed/OZ8GZ3PFVGM
+*_https://www.youtube.com/embed/OZ8GZ3PFVGM
 
-* https://www.youtube.com/embed/hic-dnps6MU</p>
+*_https://www.youtube.com/embed/hic-dnps6MU</p>
 <h5>Acknowledgement</h5>
-<p>the inspiration of my project is rollingstone worldwide most famous rock band
-with over 50 yeras experince of music lover thats why i choose RollingStone</p>
+<p>Thank you to my Mentor - Chiris Zielinski(Tech Mentor at Code Institute)</p>
 
 
   
