@@ -290,3 +290,6 @@ button[type="submit"] {
     }
 }
 
+.eq-height {
+    min-height: 100%;
+}
