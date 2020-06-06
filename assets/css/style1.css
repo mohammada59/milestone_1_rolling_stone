@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 .jumbotron {
-     background-color:#428ff4;
+     background-color:#000000;
 }
 body {
     font-family: Roboto, sans-serif;
@@ -26,9 +26,14 @@ body {
 
 .h1{
     text-align: center;
+     color:#FFFFFF;
+}
+.h3{
+    text-align: center;
+     color:#FFFFFF;
 }
 h2,
-h3,
+
 h4 {
     margin: 0;
 }
