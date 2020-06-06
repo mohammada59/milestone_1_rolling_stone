@@ -6,7 +6,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    background-color: #525252;
+    background-color:#000000;
     color: #555555;
 }
 
@@ -29,6 +29,10 @@ body {
      color:#FFFFFF;
 }
 .h3{
+    text-align: center;
+     color:#FFFFFF;
+}
+..h3{
     text-align: center;
      color:#FFFFFF;
 }
