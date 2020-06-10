@@ -183,7 +183,12 @@ footer {
   margin: 0;
 }
 
-
+.fa-facebook{
+   color:darkblue;
+ } 
+ .fa-facebook:hover {
+  color:white;
+}
 
 .social-links {
   padding-bottom: 15px;
