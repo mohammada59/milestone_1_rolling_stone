@@ -248,6 +248,16 @@ a{
 #footer-details {
   margin: 20px;
 }
+
+
+/*--------------------------------------------Card*/
+
+
+.card-title{
+     background-color:#000000;
+     color:#ffffff;
+}
+
 /*--------------------------------------------Media Queries*/
 
 @media(min-width: 992px) and (max-width:1200px) {
