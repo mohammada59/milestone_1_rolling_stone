@@ -249,7 +249,9 @@ a{
   margin: 20px;
 }
 
-
+#footer-copyright {
+     background: #c1c5f1;
+}
 /*--------------------------------------------Card*/
 
 card{
