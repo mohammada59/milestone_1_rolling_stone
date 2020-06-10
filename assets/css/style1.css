@@ -252,6 +252,10 @@ a{
 
 /*--------------------------------------------Card*/
 
+.card{
+     background-color:#000000;
+     color:#ffffff;
+}
 
 card-title{
      background-color:#000000;
